@@ -1,3 +1,5 @@
+# pipe calculator
+
 print("Введите диаметр и толщину стенки")
 print("Введите 'q' для завершения.")
 while True:
